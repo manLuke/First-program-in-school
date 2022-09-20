@@ -1,0 +1,15 @@
+/home/tomas/Desktop/programming/GitHub/First-program-in-school/TodoApp/obj/Debug/net6.0/TodoApp.csproj.AssemblyReference.cache
+/home/tomas/Desktop/programming/GitHub/First-program-in-school/TodoApp/obj/Debug/net6.0/TodoApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/tomas/Desktop/programming/GitHub/First-program-in-school/TodoApp/obj/Debug/net6.0/TodoApp.AssemblyInfoInputs.cache
+/home/tomas/Desktop/programming/GitHub/First-program-in-school/TodoApp/obj/Debug/net6.0/TodoApp.AssemblyInfo.cs
+/home/tomas/Desktop/programming/GitHub/First-program-in-school/TodoApp/obj/Debug/net6.0/TodoApp.csproj.CoreCompileInputs.cache
+/home/tomas/Desktop/programming/GitHub/First-program-in-school/TodoApp/bin/Debug/net6.0/TodoApp
+/home/tomas/Desktop/programming/GitHub/First-program-in-school/TodoApp/bin/Debug/net6.0/TodoApp.deps.json
+/home/tomas/Desktop/programming/GitHub/First-program-in-school/TodoApp/bin/Debug/net6.0/TodoApp.runtimeconfig.json
+/home/tomas/Desktop/programming/GitHub/First-program-in-school/TodoApp/bin/Debug/net6.0/TodoApp.dll
+/home/tomas/Desktop/programming/GitHub/First-program-in-school/TodoApp/bin/Debug/net6.0/TodoApp.pdb
+/home/tomas/Desktop/programming/GitHub/First-program-in-school/TodoApp/obj/Debug/net6.0/TodoApp.dll
+/home/tomas/Desktop/programming/GitHub/First-program-in-school/TodoApp/obj/Debug/net6.0/refint/TodoApp.dll
+/home/tomas/Desktop/programming/GitHub/First-program-in-school/TodoApp/obj/Debug/net6.0/TodoApp.pdb
+/home/tomas/Desktop/programming/GitHub/First-program-in-school/TodoApp/obj/Debug/net6.0/TodoApp.genruntimeconfig.cache
+/home/tomas/Desktop/programming/GitHub/First-program-in-school/TodoApp/obj/Debug/net6.0/ref/TodoApp.dll
